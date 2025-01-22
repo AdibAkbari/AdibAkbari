@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! 👋 I'm Adib
 
-<!--
-**AdibAkbari/AdibAkbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UNSW with a focus on full-stack development. Currently working as an SRE Intern at Nutanix and Software Engineer at Bahai.org.au.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **Presto**: React-based presentation maker
+- **BitTrickle**: P2P file sharing system (Python)
+- **Pushy**: Git clone implementation in Dash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages**: Python, Java, JavaScript/TypeScript, C#, C/C++, SQL
+- **Technologies**: React, .NET, Node.js, Docker, Linux, Git
+
+Check out my work at [adibakbari.github.io/portfolio](https://adibakbari.github.io/portfolio)
