@@ -3,7 +3,7 @@
 Computer Science student at UNSW with a focus on full-stack development. Currently working as an SRE Intern at Nutanix and Software Engineer at Bahai.org.au.
 
 ## 🚀 Projects
-- **YouTube Playlist Manager**: Chrome extension for easily viewing and accessing YouTube playlists and videos in them.
+- **YouTube Playlist Manager**: Chrome extension for easily viewing and accessing YouTube playlists and videos in them
 - **Presto**: React-based presentation maker
 - **BitTrickle**: P2P file sharing system (Python)
 - **Pushy**: Git clone implementation in Dash
