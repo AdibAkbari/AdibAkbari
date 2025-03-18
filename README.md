@@ -3,7 +3,7 @@
 Computer Science student at UNSW with a focus on full-stack development. Just finished up working as an SRE Intern at Nutanix and currently working part-time as a Software Engineer Intern at Bahai.org.au.
 
 ## 🚀 Projects
-- **Formify**: UniHack 2025 project that transforms voice into real-time form entries with AI, making data entry effortless. Also enables quick and intuitive form building.
+- **Formify**: UniHack 2025 project that transforms voice into real-time form entries with AI, making data entry effortless. Also has quick and intuitive form building.
 - **Chiron Framework**: Project done while interning at Nutanix to convert customer-facing troubleshooting documentation into engaging videos using AI.
 - **Presto**: React-based presentation maker
 - **BitTrickle**: P2P file sharing system (Python)
