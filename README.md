@@ -12,7 +12,7 @@ Computer Science student at UNSW with a focus on full-stack development. Just fi
 - And more!
 
 ## 💻 Tech Stack
-- **Languages**: Python, Java, JavaScript/TypeScript, C#, C/C++, SQL, RUSTTTT
+- **Languages**: Python, Java, JavaScript/TypeScript, C#, C/C++, SQL, RUST
 - **Technologies**: React, .NET, Node.js, Django, Docker, Linux, Git
 
 Check out my work at [adibakbari.github.io/portfolio](https://adibakbari.github.io/portfolio)
