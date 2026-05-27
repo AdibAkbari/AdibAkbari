@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Adib
 
-Computer Science student at UNSW with a focus on full-stack development. Just finished up working as an SRE Intern at Nutanix and currently working part-time as a Software Engineer Intern at Bahai.org.au.
+Software Developer at Thoughtworks. Focusing on full-stack development and AI. Finished studying Computer Science in 2025 at UNSW. Interned as an SRE at Nutanix and SWE at Bahai.org.au.
 
 ## 🚀 Projects
 - **Formify**: UniHack 2025 (got 7th place out of 135 teams!) project that transforms voice into real-time form entries with AI, making data entry effortless. Also has quick and intuitive form building.
